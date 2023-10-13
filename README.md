@@ -70,10 +70,10 @@ plt.show()
 ## Reading csv file
 <img width="565" alt="s1" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/ceb38bed-3c14-4baa-b7d5-9b0a5b4628f5">
 
-
+## Skew
 <img width="215" alt="s2" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/a6621e0d-8895-4d91-b847-e646ccdb0328">
 
-## Function Transformation
+## Function Transformation:
 
 ## Log Transformation
 <img width="345" alt="s3" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/fc805d60-444e-42d2-9685-6df9a879bef9">
@@ -87,7 +87,7 @@ plt.show()
 ## Square Transformation
 <img width="344" alt="s6" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/136b949c-e319-40a6-8c4e-250191925fca">
 
-## Power Transformation
+## Power Transformation:
 
 ## Boxcox method
 <img width="738" alt="s7" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/6417c408-de6e-4875-a235-005fb97dfb9b">
@@ -95,19 +95,19 @@ plt.show()
 ## Yeojohnson method
 <img width="858" alt="s8" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/84a4e2b6-3f40-4b22-b60a-8fe6728a9871">
 
-## Quantile Transformation
+## Quantile Transformation:
 <img width="859" alt="s9" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/7f8c7dd8-ea83-4d4d-951d-be0cb6266e9c">
 
 ## Plotting Moderately Negative Skew
 <img width="439" alt="s10" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/68f1f853-a670-4651-9d28-9e7930227181">
 
-## Plotting modified Moderately Negative Skew
+## Plotting Modified Moderately Negative Skew
 <img width="432" alt="s11" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/839eb01c-6563-4298-a19e-d21b55efc9ee">
 
 ## Plotting Highly Negative Skew
 <img width="443" alt="s12" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/2cc3a06f-760b-403b-9fb5-649d6144d893">
 
-## Plotting modified Highly Negative Skew
+## Plotting Modified Highly Negative Skew
 <img width="431" alt="s13" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex06/assets/113674204/d0dddf34-a317-4014-86ea-e2a9010bf20a">
 
 
